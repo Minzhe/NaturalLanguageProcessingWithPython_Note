@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="458e945d-7d47-42c7-943d-c8609d94a3f2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2.Corpora.Lexical.py" afterPath="$PROJECT_DIR$/2.Corpora.Lexical.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,12 +14,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2.Corpora.Lexical.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2.Corpora.Lexical.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2.Corpora.Lexical.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
+            <state relative-caret-position="4437">
               <caret line="261" column="47" lean-forward="true" selection-start-line="261" selection-start-column="47" selection-end-line="261" selection-end-column="47" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3.Processing.Raw.Text.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3.Processing.Raw.Text.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="173" column="0" lean-forward="false" selection-start-line="173" selection-start-column="0" selection-end-line="182" selection-end-column="31" />
+              <folding>
+                <element signature="e#46#57#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,6 +66,7 @@
         <option value="$PROJECT_DIR$/1.1.Start.with.nltk.py" />
         <option value="$PROJECT_DIR$/.ipynb_checkpoints/2.Corpora.Lexical.py" />
         <option value="$PROJECT_DIR$/2.Corpora.Lexical.py" />
+        <option value="$PROJECT_DIR$/3.Processing.Raw.Text.py" />
       </list>
     </option>
   </component>
@@ -290,9 +302,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2.Corpora.Lexical.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
+        <state relative-caret-position="4437">
           <caret line="261" column="47" lean-forward="true" selection-start-line="261" selection-start-column="47" selection-end-line="261" selection-end-column="47" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.Processing.Raw.Text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="173" column="0" lean-forward="false" selection-start-line="173" selection-start-column="0" selection-end-line="182" selection-end-column="31" />
+          <folding>
+            <element signature="e#46#57#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
