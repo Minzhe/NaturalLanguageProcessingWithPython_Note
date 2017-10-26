@@ -51,18 +51,18 @@ fdist.max()
 fdist.freq(3)
 
 ############ nltk frequency function ############
-# fdist1 = FreqDist(text1)
-# fdist1.inc()
-# fdist1['monstrous']
-# fdist1.freq('monstrous')
-# fdist1.N()
-# fdist1.keys()
-# for sample in fdist1:
-# fdist1.max()
-# fdist1.tabulate()
-# fdist1.plot()
-# fdist1.plot(cumulative = True)
-# fdist1 < fdist2
+# fdist = FreqDist(samples)       # Create a frequency distribution containing the given samples
+# fdist.inc(sample)               # Increment the count for this sample
+# fdist['monstrous']              # Count of the number of times a given sample occurred
+# fdist.freq('monstrous')         # Frequency of a given sample
+# fdist.N()                       # Total number of samples
+# fdist.keys()                    # The samples sorted in order of decreasing frequency
+# for sample in fdist:            # Iterate over the samples, in order of decreasing frequency
+# fdist.max()                     # Sample with the greatest count
+# fdist.tabulate()                # Tabulate the frequency distribution
+# fdist.plot()                    # Graphical plot of the frequency distribution
+# fdist.plot(cumulative=True)     # Cumulative plot of the frequency distribution
+# fdist1 < fdist2 Test if samples in fdist1   # occur less frequently than in fdist2
 
 ########## conditon ###########
 # s.startswith(t)
